@@ -1,0 +1,55 @@
+body {
+    background-image: url('background1920px.jpg');
+}
+
+form{
+    margin-top: 15%;
+    margin-left: 200px;
+    padding: 10px;
+    width: 15%;
+    border-radius: 10px; 
+    background-color: white;
+    height: 380px;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+h2{
+    align-items: center;
+    text-align: center;
+}
+
+input{
+    align-items: center;
+    border: none;
+    background-color:#C0C0C0;
+    border: #C0C0C0 solid 1px;
+    height: 30px;
+    width: 220px;
+    margin: 15px;
+}
+
+.forgot{
+    font-size:13px;
+    text-align: right;
+    margin-right: 35px;
+}
+
+button{
+    margin: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    height: 35px;
+    width: 175px;
+    border: none;
+    background-color: yellow;
+    border-radius: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.newaccount{
+    text-decoration: none;
+    
+}
